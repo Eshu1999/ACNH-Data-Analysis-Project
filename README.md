@@ -40,7 +40,7 @@
 
 * Crafting materials and quantities (for DIY items)
 
-#Tools & Technologies
+# Tools & Technologies
 * Python
 
 * Pandas – data cleaning and manipulation
