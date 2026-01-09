@@ -1,134 +1,134 @@
-Exploratory Data Analysis of Animal Crossing: New Horizons (ACNH) Items
-Project Overview
-This project focuses on performing Exploratory Data Analysis (EDA) on multiple datasets from Animal Crossing: New Horizons. The goal is to understand item pricing, crafting complexity, variants, and availability by analyzing furniture, clothing, and DIY recipe data.
+# Exploratory Data Analysis of Animal Crossing: New Horizons (ACNH) Items
+# Project Overview
+# This project focuses on performing Exploratory Data Analysis (EDA) on multiple datasets from Animal Crossing: New Horizons. The goal is to understand item pricing, crafting complexity, variants, and availability by analyzing furniture, clothing, and DIY recipe data.
 
-The analysis is performed primarily at the variant level, where each row represents a unique variation of an item (e.g., color, size, style).
+# The analysis is performed primarily at the variant level, where each row represents a unique variation of an item (e.g., color, size, style).
 
-Objectives
-Clean and understand real-world structured datasets
+# Objectives
+* Clean and understand real-world structured datasets
 
-Analyze items at the variant level
+* Analyze items at the variant level
 
-Explore pricing trends (Buy vs Sell)
+* Explore pricing trends (Buy vs Sell)
 
-Analyze crafting materials and recipe complexity
+* Analyze crafting materials and recipe complexity
 
-Identify patterns in availability, styles, and sources
+* Identify patterns in availability, styles, and sources
 
-Practice data cleaning, reshaping, and aggregation techniques
+* Practice data cleaning, reshaping, and aggregation techniques
 
-Datasets Used
-The project uses multiple ACNH datasets including:
+# Datasets Used
+* The project uses multiple ACNH datasets including:
 
-Furniture items
+* Furniture items
 
-Clothing items
+* Clothing items
 
-DIY recipes
+* DIY recipes
 
-Houseware and interior items
+* Houseware and interior items
 
-Each dataset contains metadata such as:
+* Each dataset contains metadata such as:
 
-Item name and variant
+* Item name and variant
 
-Buy and Sell prices
+* Buy and Sell prices
 
-Colors, size, style
+* Colors, size, style
 
-Source and availability
+* Source and availability
 
-Crafting materials and quantities (for DIY items)
+* Crafting materials and quantities (for DIY items)
 
-Tools & Technologies
-Python
+#Tools & Technologies
+* Python
 
-Pandas – data cleaning and manipulation
+* Pandas – data cleaning and manipulation
 
-NumPy – numerical operations
+* NumPy – numerical operations
 
-Matplotlib / Seaborn – data visualization
+* Matplotlib / Seaborn – data visualization
 
-Jupyter Notebook – analysis and documentation
+* Jupyter Notebook – analysis and documentation
 
-Analysis Steps
-Data Understanding
+# Analysis Steps
+* Data Understanding
 
-Examined data types, missing values, and structure
+* Examined data types, missing values, and structure
 
-Identified key columns relevant for analysis
+* Identified key columns relevant for analysis
 
-Data Cleaning
+* Data Cleaning
 
-Handled missing values
+* Handled missing values
 
-Converted data types where required
+* Converted data types where required
 
-Removed inconsistencies
+* Removed inconsistencies
 
-Variant-Level Analysis
+* Variant-Level Analysis
 
-Treated each row as a unique item variant
+* Treated each row as a unique item variant
 
-Analyzed price differences across variants
+* Analyzed price differences across variants
 
-Studied size, color, and style distribution
+* Studied size, color, and style distribution
 
-DIY Recipe Analysis
+* DIY Recipe Analysis
 
-Extracted crafting materials
+* Extracted crafting materials
 
-Calculated total quantity required per material
+* Calculated total quantity required per material
 
-Analyzed crafting complexity
+* Analyzed crafting complexity
 
-Exploratory Visualization
+* Exploratory Visualization
 
-Price distribution
+* Price distribution
 
-Frequency of item sources
+* Frequency of item sources
 
-Material usage patterns
+* Material usage patterns
 
-Availability trends
+* Availability trends
 
-Key Insights
-Significant variation exists in Sell prices even among variants of the same item
+# Key Insights
+* Significant variation exists in Sell prices even among variants of the same item
 
-Most DIY recipes rely on a small subset of common materials
+* Most DIY recipes rely on a small subset of common materials
 
-Some items are exclusive to specific sources or seasons
+* Some items are exclusive to specific sources or seasons
 
-Variant-level analysis provides deeper insights than item-level aggregation
+* Variant-level analysis provides deeper insights than item-level aggregation
 
-Limitations
-No time-based data (cannot analyze trends over time)
+# Limitations
+* No time-based data (cannot analyze trends over time)
 
-Limited data on player demand
+* Limited data on player demand
 
-Miles Price values are sparse
+* Miles Price values are sparse
 
-Future Improvements
-Add profitability analysis (Sell price vs crafting cost)
+# Future Improvements
+* Add profitability analysis (Sell price vs crafting cost)
 
-Combine datasets to build a recommendation system
+* Combine datasets to build a recommendation system
 
-Apply clustering to group similar items
+* Apply clustering to group similar items
 
-Extend analysis with machine learning models
+* Extend analysis with machine learning models
 
-** Conclusion
+# Conclusion
 
-This project demonstrates my ability to:
+* This project demonstrates my ability to:
 
-Work with real-world datasets
+* Work with real-world datasets
 
-Clean and analyze structured data
+* Clean and analyze structured data
 
-Apply logical reasoning to data problems
+* Apply logical reasoning to data problems
 
-Communicate insights clearly using visualizations
+* Communicate insights clearly using visualizations
 
-Author
+# Author
 
-Arjan Anant Aspiring Data Analyst | Python & Pandas India
+* Arjan Anant Aspiring Data Analyst | Python & Pandas India
